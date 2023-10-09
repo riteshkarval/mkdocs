@@ -35,7 +35,6 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
 
 
 ## Different managed services for deploying AI models
-
 <table>
   <thead>
     <tr style="height: 21px;">
@@ -57,7 +56,7 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle;"></td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle;"></td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle;"></td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle;"></td>
+      <td rowspan="4" colspan="1" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle;"><div style="max-height: 84px;"></div></td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle;"></td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle;"></td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle;"></td>
@@ -68,21 +67,18 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
       <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://cloud.google.com/ai-platform/prediction/docs/deploying-models&quot;}" data-sheets-hyperlink="https://cloud.google.com/ai-platform/prediction/docs/deploying-models" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; text-decoration-line: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><div style="max-height: 63px;"><a class="in-cell-link" href="https://cloud.google.com/ai-platform/prediction/docs/deploying-models" target="_blank">https://cloud.google.com/ai-platform/prediction/docs/deploying-models</a></div></td>
       <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Yes&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"><div style="max-height: 63px;">Yes</div></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A-100&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">A-100</td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;40GB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">40GB</td>
       <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3.67}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">3.67</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
     </tr>
     <tr style="height: 21px;">
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;V-100&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">V-100</td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16GB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">16GB</td>
       <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2.48}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">2.48</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
     </tr>
     <tr style="height: 21px;">
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;P-100&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">P-100</td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16GB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">16GB</td>
       <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1.46}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">1.46</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
@@ -138,7 +134,7 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
       <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Azure&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; font-weight: bold; overflow-wrap: break-word;"><div style="max-height: 63px;">Azure</div></td>
       <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;AzureML&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word;"><div style="max-height: 63px;">AzureML</div></td>
       <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoints?view=azureml-api-2&quot;}" data-sheets-hyperlink="https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoints?view=azureml-api-2" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; text-decoration-line: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><div style="max-height: 63px;"><a class="in-cell-link" href="https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoints?view=azureml-api-2" target="_blank">https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoints?view=azureml-api-2</a></div></td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Yes&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">Yes</td>
+      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Yes&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"><div style="max-height: 63px;">Yes</div></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A-100&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">A-100</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;80GB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">80GB</td>
@@ -146,7 +142,6 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
     </tr>
     <tr style="height: 21px;">
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;V-100&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">V-100</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16GB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">16GB</td>
@@ -154,7 +149,6 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
     </tr>
     <tr style="height: 21px;">
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;P-100&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">P-100</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16Gb&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">16Gb</td>
@@ -165,7 +159,7 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
       <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lambda&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; font-weight: bold; overflow-wrap: break-word;"><div style="max-height: 63px;">Lambda</div></td>
       <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lambda &quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word;"><div style="max-height: 63px;">Lambda</div></td>
       <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://lambdalabs.com/service/gpu-cloud/pricing&quot;}" data-sheets-hyperlink="https://lambdalabs.com/service/gpu-cloud/pricing" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; text-decoration-line: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><div style="max-height: 63px;"><a class="in-cell-link" href="https://lambdalabs.com/service/gpu-cloud/pricing" target="_blank">https://lambdalabs.com/service/gpu-cloud/pricing</a></div></td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
+      <td rowspan="3" colspan="1" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"><div style="max-height: 63px;"></div></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A-100&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">A-100</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;80GB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">80GB</td>
@@ -173,7 +167,6 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
     </tr>
     <tr style="height: 21px;">
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A-100&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">A-100</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;40GB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">40GB</td>
@@ -181,7 +174,6 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
     </tr>
     <tr style="height: 21px;">
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;V-100&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">V-100</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"></td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16GB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;">16GB</td>
@@ -218,7 +210,7 @@ A new branch of MLOPs is LLMOPs. Large Language Model Ops (LLMOps) encompasses t
       <td style="border: 1px solid rgb(204, 204, 204); color: rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: middle;"></td>
     </tr>
   </tbody>
-</table> 
+</table>
 
 ## Deployment on AWS Sagemaker
 
